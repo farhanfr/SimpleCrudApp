@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "test",
+      "email": "test",
+      "bidang": "test"
+    },
+    {
+      "name": "test3",
+      "email": "author test3",
+      "bidang": "test",
+      "id": 2
+    },
+    {
+      "name": "Budi",
+      "email": "Budi@gmail.com",
+      "bidang": "Mobile",
+      "id": 3
+    }
+  ]
+}
